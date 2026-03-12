@@ -1,7 +1,7 @@
 font-family = "Geist Mono"
 font-size = 20
 maximize = true
-background-opacity = 0.6
+background-opacity = 0.85
 window-width = 160
 window-height = 40
 window-padding-x = 10
